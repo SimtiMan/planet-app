@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://rares123:rares123@devconnector.ylpqa.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "fcda0def8f1fbe310912",
+  "githubSecret": "06850f69c4bd92fb7275d4fff6bfa9a64bd74637"
+}
